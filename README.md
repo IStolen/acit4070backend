@@ -24,7 +24,7 @@ You'll find the frontend app at https://github.com/IStolen/nrtickets
     $pip install -r requirements.txt
 
 **start up the services**
-    Insert credentials into the kafkaglobal-file on each of the services you want to start. 
+    Insert credentials into the kafkaglobal-file on each of the services you want to start. The API and booking app is located on the root, while the services are in separate       directories (/seatingModule and /paymentModule).
     If you have your own confluent-cluster, you must also update bootratrap server. 
 
 **start up the services**
