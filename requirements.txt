@@ -1,0 +1,6 @@
+confluent-kafka
+flask
+kafka-python
+requests
+flask-cors
+tinydb
